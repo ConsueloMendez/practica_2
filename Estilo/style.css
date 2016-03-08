@@ -1,0 +1,40 @@
+div{
+	color:white;
+	background-color:grey;
+	height: auto;;
+
+}
+
+p{
+	font-family: arial;
+  font-size: 15px;
+  color:green;
+}
+
+.articulo{
+	font-family: arial;
+ background-color: grey;
+ color: white;
+ padding: 30px;
+
+
+}
+
+.menu{
+	font-family: arial;
+	background-color: lightblue;
+	color: black;
+	float: left;
+	width: 30%;
+	height: 298px;
+}
+
+.contenido{
+		font-family: arial;
+	background-color: lightgreen;
+	color: black;
+	float: right;
+  width: 70%;
+	height: 298px;
+
+}
