@@ -1,4 +1,4 @@
-footer{
+div{
 	color:white;
 	background-color:grey;
 	height: auto;;
@@ -20,7 +20,7 @@ p{
 
 }
 
-nav{
+.menu{
 	font-family: arial;
 	background-color: lightblue;
 	color: black;
@@ -29,7 +29,7 @@ nav{
 	height: 298px;
 }
 
-article{
+.contenido{
 		font-family: arial;
 	background-color: lightgreen;
 	color: black;
